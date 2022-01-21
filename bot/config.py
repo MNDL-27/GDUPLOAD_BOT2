@@ -94,4 +94,4 @@ class Messages:
     
     EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
     
-    PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.**"
+    PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.Supported Link : https://ytdl-org.github.io/youtube-dl/supportedsites.html**"
